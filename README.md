@@ -2,7 +2,7 @@
 ## What is the Website?
  Frontend blog website developed using Html, JavaScript, and CSS, that makes the user upload blogs with titles after logining in as "admin".
 ## What the Repository contains
-The Repository contains the following files and folders:
+The repository contains the following files and folders:
 - `login.html`: the login page where the users can enter their username and password.
 - `login.js`: the JavaScript file for `login.html`, it enables the users to save their login info.
 - `login.css`: the css file for `login.html`.
